@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Gestão da tecnologia da Informação - Unifael
 
 
-### Cursando 
+### 📖 Cursando 
 
 - Desenvolvimento Web Front-End - Growdev 
 
