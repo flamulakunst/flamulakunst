@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-   <a href="[https://www.linkedin.com/flamulakunst" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/fl%C3%A2mulakunst/">
+   <a href="[https://www.linkedin.com/in/flâmulakunst" alt="linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/flâmulakunst">
 </a>
   <a href="https://www.instagram.com/flamzkn" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/flamzkn">
