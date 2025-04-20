@@ -39,10 +39,11 @@ Here are some ideas to get you started:
 - Desenvolvimento Web Front-End - Growdev 
 
 
-
 <p align="left">
-  <a href="#" title="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/fl%C3%A2mulakunst/" alt="Linkedin"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/flamzkn/" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/flamzkn" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/flamzkn">
+</a>
+  <a href="[https://www.linkedin.com/flamulakunst" alt="linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/flamulakunst">
+</a>
 </p>
